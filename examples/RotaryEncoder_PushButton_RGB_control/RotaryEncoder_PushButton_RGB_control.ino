@@ -1,4 +1,4 @@
-#include <Encoder.h> //encoder library
+l#include <Encoder.h> //encoder library
 // Change these two numbers to the pins connected to your encoder.
 //   Best Performance: both pins have interrupt capability
 //   Good Performance: only the first pin has interrupt capability
