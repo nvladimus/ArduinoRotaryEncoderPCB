@@ -16,7 +16,12 @@ This PCB contains resistors and capacitors for denoising (debouncing) of a Rotar
 * Adding a pull-up resistor to the pushbutton (resistor R4).
 * Adding 3 resistors for R,G,B LEDs built into the shaft (resistors R5, R6, R7).
 
-**Number of layers:** 2
+**Usage**
+Connect pins 1,2 to Arduino DIO pins 2,3, power and ground pins to Arduino 5V and ground pins, and run one of the code examples provided here. Counts are displayed via Serial Monitor, 4 counts per each click.
+
+Code examples require [Encoder](https://github.com/PaulStoffregen/Encoder) library: download and unzip it into your `../Ardunio/libraries/` folder and restart Arduino IDE. 
+
+**Number of PCB layers:** 2
 
 **Dimensions:** 50x30 mm (normal version), 30x30mm (SMD version)
 
