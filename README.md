@@ -25,4 +25,9 @@ Code examples require [Encoder](https://github.com/PaulStoffregen/Encoder) libra
 
 **Dimensions:** 30x50 mm (normal version), 30x35mm (SMD version)
 
+**Direct ordering from AISLER**: 
+[30x50 mm (normal version)](https://aisler.net/nvladimus/myboard/debouncing-board-for-rotary-encoder-illuminated-rgb-sparkfun-10982-size-30x50-mm)
+
+[30x35mm (SMD version)](https://aisler.net/nvladimus/myboard/debouncing-board-for-rotary-encoder-illuminated-rgb-sparkfun-10982-smd-style-size-30x35-mm)
+
 More info in my [blog](https://high-na.blogspot.com/2017/12/rotaryEncoder.html).
