@@ -1,4 +1,4 @@
-# A simple printed circuit board for rotary encoder control
+# A printed circuit board for rotary encoder control
 This PCB contains resistors and capacitors for denoising (debouncing) of a Rotary Encoder - Illuminated RGB [Sparkfun 10982](https://www.sparkfun.com/products/10982), and controlling it's LEDs.
  ![pcb photo](/pcb/PCB-manufactured.png)
  ![pcb normal size](/pcb/RotaryEncoderRGB_Sparkfun_debouncing_board_pcb.png)
@@ -11,6 +11,7 @@ The board has the following pins:
 * B,G,R - control pins for blue, green and red LEDs built in the encoder shaft.
 
 Number of layers: 2
+
 Dimensions: 50x30 mm (normal version), 30x30mm (SMD version)
 
 More info in my [blog](https://high-na.blogspot.com/2017/12/rotaryEncoder.html).
