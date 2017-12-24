@@ -23,6 +23,6 @@ Code examples require [Encoder](https://github.com/PaulStoffregen/Encoder) libra
 
 **Number of PCB layers:** 2
 
-**Dimensions:** 50x30 mm (normal version), 30x30mm (SMD version)
+**Dimensions:** 30x50 mm (normal version), 30x35mm (SMD version)
 
 More info in my [blog](https://high-na.blogspot.com/2017/12/rotaryEncoder.html).
