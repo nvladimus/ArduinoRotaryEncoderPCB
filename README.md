@@ -1,5 +1,5 @@
 # Printed circuit board for rotary encoder control
-This PCB contains resistors and capacitors for denoising (debouncing) of a Rotary Encoder - Illuminated RGB [(Sparkfun 10982)](https://www.sparkfun.com/products/10982), and controlling it's LEDs.
+This PCB contains resistors and capacitors for denoising (debouncing) of a Rotary Encoder - Illuminated RGB [(Sparkfun 10982)](https://www.sparkfun.com/products/10982){:target="_blank"}, and controlling it's LEDs.
  ![pcb photo](/pcb/PCB-manufactured.png)
  ![pcb normal size](/pcb/RotaryEncoderRGB_Sparkfun_debouncing_board_pcb.png)
 
@@ -19,15 +19,15 @@ This PCB contains resistors and capacitors for denoising (debouncing) of a Rotar
 **Usage**
 Connect pins 1,2 to Arduino DIO pins 2,3, power and ground pins to Arduino 5V and ground pins, and run one of the code examples provided here. Counts are displayed via Serial Monitor, 4 counts per each click.
 
-Code examples require [Encoder](https://github.com/PaulStoffregen/Encoder) library: download and unzip it into your `../Ardunio/libraries/` folder and restart Arduino IDE. 
+Code examples require [Encoder](https://github.com/PaulStoffregen/Encoder){:target="_blank"} library: download and unzip it into your `../Ardunio/libraries/` folder and restart Arduino IDE. 
 
 **Number of PCB layers:** 2
 
 **Dimensions:** 30x50 mm (normal version), 30x35mm (SMD version)
 
 **Direct ordering from AISLER**: 
-[30x50 mm (normal version)](https://aisler.net/nvladimus/myboard/debouncing-board-for-rotary-encoder-illuminated-rgb-sparkfun-10982-size-30x50-mm)
+[30x50 mm (normal version)](https://aisler.net/nvladimus/myboard/debouncing-board-for-rotary-encoder-illuminated-rgb-sparkfun-10982-size-30x50-mm){:target="_blank"}
 
-[30x35mm (SMD version)](https://aisler.net/nvladimus/myboard/debouncing-board-for-rotary-encoder-illuminated-rgb-sparkfun-10982-smd-style-size-30x35-mm)
+[30x35mm (SMD version)](https://aisler.net/nvladimus/myboard/debouncing-board-for-rotary-encoder-illuminated-rgb-sparkfun-10982-smd-style-size-30x35-mm){:target="_blank"}
 
-More info in my [blog](https://high-na.blogspot.com/2017/12/rotaryEncoder.html).
+More info in my [blog](https://high-na.blogspot.com/2017/12/rotaryEncoder.html){:target="_blank"}.
