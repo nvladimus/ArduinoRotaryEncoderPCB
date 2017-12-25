@@ -19,7 +19,10 @@ This PCB contains resistors and capacitors for denoising (debouncing) of a Rotar
 
 **Usage**
 
-Connect pins 1,2 to Arduino digital pins 2,3, power and ground pins to 5V and ground, and run one of the code examples provided here. Counts are displayed via Serial Monitor, 4 counts per click.
+Connect power (+) and ground (-) pins to Arduino 5V and ground, quadrature pins 1,2 to Arduino digital pins with interrupt:
+* Arduino Uno: digital pins 2,3
+* Arduino Mega: any pair of digital pins	2, 3, 18, 19, 20, 21
+Code examples provided here include rotary encoder readout, shaft push-button action, and turning LEDs on/off by the push-button action. Counts are displayed via Serial Monitor, 4 counts per click.
 
 Code examples require [Encoder](https://github.com/PaulStoffregen/Encoder) library: download and unzip it into your `../Ardunio/libraries/` folder and restart Arduino IDE. 
 
