@@ -12,10 +12,10 @@ This PCB contains resistors and capacitors for denoising (debouncing) of a Rotar
 * R,G,B - control pins for red, green and blue LEDs built in the encoder shaft.
 
 **Functions:**
-* Denoising the encoder quadrature signals (RC time constant 1 ms, resistors R1-R4 and capacitors C1,C2)
-* Denoising the pushbutton action of the encoder shaft (RC constant 0.1 ms, capacitor C3)
-* Adding a pull-up resistor to the pushbutton (resistor R4).
-* Adding 3 resistors for R,G,B LEDs built into the shaft (resistors R5, R6, R7).
+* Denoising the encoder quadrature signals (resistors R1-R4 and capacitors C1,C2, RC time constant 1 ms)
+* Denoising the pushbutton action of the encoder shaft (capacitor C3, RC constant 0.1 ms)
+* a pull-up resistor for the pushbutton (resistor R4).
+* resistors for R,G,B LEDs of the encoder shaft (resistors R5, R6, R7).
 
 **Usage**
 
