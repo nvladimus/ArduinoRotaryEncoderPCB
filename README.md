@@ -1,5 +1,5 @@
 # Printed circuit board for rotary encoder control
-This PCB contains resistors and capacitors for denoising (debouncing) of a Rotary Encoder - Illuminated RGB [(Sparkfun 10982)](https://www.sparkfun.com/products/10982), and controlling it's LEDs.
+This PCB contains resistors and capacitors for denoising (debouncing) of a rotary encoder with illuminated shaft ( [Sparkfun 10982](https://www.sparkfun.com/products/10982) or [Bourns PEL12T](http://www.bourns.com/data/global/pdfs/PEL12T.pdf) ), and resistors for it's LEDs.
 ![pcb photo](/pcb/PCB-manufactured.png "PCB bare (left) and assembled (right)")
 
 **Pins:**
