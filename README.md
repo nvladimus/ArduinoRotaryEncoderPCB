@@ -3,7 +3,7 @@ This PCB contains resistors and capacitors for denoising (debouncing) of a Rotar
  ![pcb photo](/pcb/PCB-manufactured.png "PCB bare (left) and assembled (right)")
  ![pcb normal size](/pcb/RotaryEncoderRGB_Sparkfun_debouncing_board_pcb.png "Normal-size verion, 30x50 mm")
  ![pcb SMD size](/pcb/RotaryEncoderRGB_Sparkfun_debouncing_board_SMD_footprint_pcb.png "Small size (SMD) version, 30x35 mm")
- ![Schematics](/pcb/RotaryEncoderRGB_Sparkfun_debouncing_board_schem.png  "Schematics")
+ ![Schematics](/pcb/RotaryEncoderRGB_Sparkfun_debouncing_board_schem_small.png  "Schematics")
 
 **Pins:**
 * "+" power supply (3.3-5V)
