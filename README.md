@@ -29,7 +29,7 @@ Code examples include rotary encoder readout, shaft push-button action, and turn
 
 **Dimensions:** 30x50 mm (normal version), 30x35mm (SMD version)
 
-**File format**: everything is in Fritzing file format, so no special knowledge is required. The experienced users can find the way to export from Fritzing to professional formats.
+**File format**: everything is in Fritzing file format to keep it friendly for non-professionals :-)
 
 **Ordering from AISLER**: 
 
