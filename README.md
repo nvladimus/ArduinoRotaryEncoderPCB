@@ -1,8 +1,8 @@
 # Printed circuit board for rotary encoder control
 This PCB contains resistors and capacitors for denoising (debouncing) of a Rotary Encoder - Illuminated RGB [(Sparkfun 10982)](https://www.sparkfun.com/products/10982), and controlling it's LEDs.
  ![pcb photo](/pcb/PCB-manufactured.png "PCB bare (left) and assembled (right)")
- ![pcb normal size](/pcb/RotaryEncoderRGB_Sparkfun_debouncing_board_pcb.png "Normal-size verions, 30x50 mm")
- ![pcb SMD size](/pcb/RotaryEncoderRGB_Sparkfun_debouncing_board_SMD_footprint_pcb.png "Small SMD size version, 30x35 mm")
+ ![pcb normal size](/pcb/RotaryEncoderRGB_Sparkfun_debouncing_board_pcb.png "Normal-size verion, 30x50 mm")
+ ![pcb SMD size](/pcb/RotaryEncoderRGB_Sparkfun_debouncing_board_SMD_footprint_pcb.png "Small size (SMD) version, 30x35 mm")
 
 **Pins:**
 * "+" power supply (3.3-5V)
@@ -29,6 +29,7 @@ Code examples require [Encoder](https://github.com/PaulStoffregen/Encoder) libra
 **File format**: everything is in Fritzing file format, so no special knowledge is required. The experienced users can find the way to export from Fritzing to professional formats.
 
 **Ordering from AISLER**: 
+
 [30x50 mm (normal version)](https://aisler.net/nvladimus/myboard/debouncing-board-for-rotary-encoder-illuminated-rgb-sparkfun-10982-size-30x50-mm)
 
 [30x35mm (SMD version)](https://aisler.net/nvladimus/myboard/debouncing-board-for-rotary-encoder-illuminated-rgb-sparkfun-10982-smd-style-size-30x35-mm)
