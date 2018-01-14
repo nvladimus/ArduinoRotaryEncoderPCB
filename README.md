@@ -1,5 +1,5 @@
 # Printed circuit board for rotary encoder control
-The purpose of this PCB is to simplify connection of a rotary encoder to Arduino. The PCB contains a circuit for denoising (debouncing) of a rotary encoder with illuminated shaft ([Sparkfun 10982](https://www.sparkfun.com/products/10982) or [Bourns PEL12T](http://www.bourns.com/data/global/pdfs/PEL12T.pdf)), and also load resistors for it's three LEDs. All you need is connect the PCB leads to Arduino digital pins and the encoder is ready.
+The purpose of this PCB is to simplify connection of a rotary encoder to Arduino. The PCB contains a circuit for denoising (debouncing) of a rotary encoder ([Sparkfun 10982](https://www.sparkfun.com/products/10982) or [Bourns PEL12T](http://www.bourns.com/data/global/pdfs/PEL12T.pdf),  with RGB illuminated shaft), and also contains load resistors for it's three LEDs. All you need is connect the PCB leads to Arduino digital pins and the encoder is ready.
 ![pcb photo](/pcb/PCB-manufactured.png "PCB bare (left) and assembled (right)")
 
 **Pins:**
