@@ -35,7 +35,7 @@ Code examples include rotary encoder readout, shaft push-button action, and turn
 
 [30x35mm (SMD version)](https://aisler.net/nvladimus/myboard/debouncing-board-for-rotary-encoder-illuminated-rgb-sparkfun-10982-smd-style-size-30x35-mm)
 
-More info in my [blog](https://high-na.blogspot.com/2017/12/rotaryEncoder.html).
+More info in my [BLOG](https://high-na.blogspot.com/2017/12/rotaryEncoder.html).
 
  ![pcb normal size](/pcb/RotaryEncoderRGB_Sparkfun_debouncing_board_pcb.png "Normal-size verion, 30x50 mm")
  ![Schematics](/pcb/RotaryEncoderRGB_Sparkfun_debouncing_board_schem_small.png  "Schematics")
